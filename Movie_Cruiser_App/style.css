@@ -1,0 +1,24 @@
+#title{
+  color:white;
+}
+#addfav{
+  width:20%;
+  margin-top:2%;
+  margin-left:10%;
+}
+#fav{
+  width:20%;
+  margin-top:2%;
+  margin-left:10%;
+}
+#favlist,#submitmovie{
+  color:white;
+  background:black;
+  /* margin-right:30%; */
+  border-color:white;
+}
+h3{
+
+  padding-top:5%;
+  margin-left:10%;
+}
